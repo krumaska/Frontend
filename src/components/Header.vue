@@ -15,7 +15,7 @@
 
 <style scoped>
   .header {
-    font-size: 2.375em;
+    font-size: 2em;
     margin-left: 1.0em;
   }
 </style>
