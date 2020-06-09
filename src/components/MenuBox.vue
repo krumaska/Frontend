@@ -40,7 +40,6 @@
 	.container .text-block {
 		position: absolute;
 		display: flex;
-		
 		left: 10%;
 		text-align: center;
 		align-items: center;
