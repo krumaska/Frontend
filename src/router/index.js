@@ -18,12 +18,12 @@ const routes = [
     component: Home
   },
   {
-    path: "/explain",
+    path: "/explain/:place",
     name: "Explain",
     component: Explain
   },
   {
-    path: "/info",
+    path: "/info/:id",
     name: "Info",
     component: Info
   }
