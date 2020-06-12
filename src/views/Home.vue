@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header title="무엇을 찾으시나요?"></Header>
-    <router-link :to="{ name: 'Info', params: { id: '교내 기관 안내' } }">
+    <router-link :to="{ name: 'College', params: { id: '교내 기관 안내' } }">
 			<MenuBox class="first_box" imgPath="gigan.jpg" textName="교내 기관 안내" ></MenuBox>
 		</router-link>
 		<router-link :to="{ name: 'Info', params: { id: '학교 주변' } }">
